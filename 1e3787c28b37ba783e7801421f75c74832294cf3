@@ -1,0 +1,26 @@
+steps/03-artifacts.md
+  77e8a8a9df82944b 55
+steps/04-claude-cowork.md
+  77e8a8a9df82944b 145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "1e3787c28b37ba783e7801421f75c74832294cf3",
+  "prompts": {
+    "77e8a8a9df82944b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "86150351-d1b3-4519-b88d-79069ed1b0fa",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 20,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/807185fd2cc9009ac380969d036be8c95f96ba82a1b9ab01330cfac1a6a7efe5"
+    }
+  }
+}
