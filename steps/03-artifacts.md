@@ -42,7 +42,7 @@ Artifacts は、Claude が生成したコンテンツを独立したパネルに
 
 ## やってみよう
 
-1. [claude.ai](https://claude.ai) にアクセスする
+1. Claude Desktop を開く
 2. 以下のプロンプトで Artifact を生成してみる：
    ```
    シンプルなカウンターアプリを React で作って

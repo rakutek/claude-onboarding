@@ -37,7 +37,7 @@ Claude アプリ（Web / デスクトップ）では、「コネクタ」とい�
 
 ## やってみよう
 
-1. [claude.ai](https://claude.ai) にログインする
+1. Claude Desktop を開く
 2. 左下のアイコン → 「Settings」→「Connected apps」を開く
 3. 以下のコネクタから、業務で使うものを有効にする：
    - Google Drive（社内ドキュメント参照用）

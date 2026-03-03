@@ -21,7 +21,7 @@
 
 | # | ファイル | 内容 | フェーズ |
 |---|---------|------|---------|
-| 01 | `steps/01-pricing-plans.md` | 料金プラン・制限の理解 | Claude Desktop |
+| 01 | `steps/01-pricing-plans.md` | Claude Desktop のインストールと料金プランの理解 | Claude Desktop |
 | 02 | `steps/02-mcp-connectors.md` | MCP（コネクタ）の設定 | Claude Desktop |
 | 03 | `steps/03-artifacts.md` | Artifacts の概念理解 | Claude Desktop |
 | 04 | `steps/04-claude-cowork.md` | Claude Cowork の理解と活用 | Claude Cowork |
