@@ -1,0 +1,26 @@
+steps/11-claude-cowork.md
+  d7e133105e2cb96c 1-149
+CLAUDE.md
+  d7e133105e2cb96c 12,34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "5635a08ce74128fa21055f2db4b12b0474e5327e",
+  "prompts": {
+    "d7e133105e2cb96c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2dbb09f3-401c-41aa-ae63-120b37d3d179",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 151,
+      "total_deletions": 1,
+      "accepted_lines": 151,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/dbf0b81b736ac582df1a6ccaa47ee53e4f9fbb7f71d2b6847df16dc0c85b9558"
+    }
+  }
+}
