@@ -1,0 +1,43 @@
+.claude/skills/setup-mcp/SKILL.md
+  889220117755c58d 19,22
+CLAUDE.md
+  889220117755c58d 55
+  642f593a08d913ff 12,32-33
+steps/06-chrome-devtools-mcp.md
+  889220117755c58d 31,36,40-41,66,74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "50d9d57b4b8198426074395ecb3623cb00cf2b75",
+  "prompts": {
+    "642f593a08d913ff": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8952a7d8-7792-4306-8a10-bf49ed0476c5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/e63fab05dbd57121011cbf347dabb042712a986d9241a6587318760c3c97082e"
+    },
+    "889220117755c58d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f41e544-853f-4126-95f6-5de52dbbdacd",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 23,
+      "accepted_lines": 10,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/cfad4401fac4031cdf9724616917ca01aef8d00382d0a2d5df8464a769a5e6fa"
+    }
+  }
+}
