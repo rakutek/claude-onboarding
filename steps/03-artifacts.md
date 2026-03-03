@@ -52,6 +52,4 @@ Artifacts は、Claude が生成したコンテンツを独立したパネルに
 
 ## 確認チェック
 
-- [ ] Artifacts が何かを説明できる
-- [ ] Artifacts の種類を3つ以上挙げられる
-- [ ] Claude Code との使い分けを理解した
+

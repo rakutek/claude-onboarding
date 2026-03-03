@@ -86,6 +86,3 @@ git worktree add ../feature-b feature-b
 
 ## 確認チェック
 
-- [ ] Agent Team と Subagent の違いを説明できる
-- [ ] Agent Team がどのように構成されるか理解した
-- [ ] 自分の業務での活用シーンを1つ思いついた

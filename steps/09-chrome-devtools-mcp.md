@@ -71,5 +71,3 @@ Chrome DevTools MCP を使うには、Chrome がデバッグモードで起動�
 ## 確認チェック
 
 - [ ] `claude mcp list` に chrome-devtools が表示される
-- [ ] `npx` が何をするコマンドか説明できる
-- [ ] Chrome DevTools MCP でできることを3つ挙げられる
