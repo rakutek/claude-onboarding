@@ -62,3 +62,8 @@ claude
 
 
 Cladue初回ログインのことを書く
+
+- compact,clear,同じチャットずっと使うな
+- limitあるよ
+- planモードが必須
+- 

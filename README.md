@@ -70,3 +70,5 @@ Claude Code が起動すると、ウェルカムメッセージが表示され�
 
 Cladue初回ログインのことを書く
 
+
+skill creatorをセットする
