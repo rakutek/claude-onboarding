@@ -1,0 +1,22 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "6399d42784c3db3f294f24762efd740f8ada2e0a",
+  "prompts": {
+    "239e58e52a947992": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71b35027-da76-497a-8b67-df7e5cec2654",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/4c6b7f634eebaf6629f0e4948c031bf802d4bafb083afbdb992c3aea76b9a4cc"
+    }
+  }
+}
