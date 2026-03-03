@@ -1,0 +1,74 @@
+CLAUDE.md
+  f445091529870d43 12,34
+steps/11-claude-in-chrome.md
+  f445091529870d43 1-154
+README.md
+  26eb303a6e964b96 1-71
+steps/03-install-claude-code.md
+  50a5678f8e4840c5 28,33,53-55
+steps/01-pricing-plans.md
+  50a5678f8e4840c5 11-12,16,34,36-39,43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "d2e510a1330324debd254dc372d49da44a744514",
+  "prompts": {
+    "26eb303a6e964b96": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6dbad897-347e-486c-813c-e740d4cc80c0",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 71,
+      "total_deletions": 0,
+      "accepted_lines": 71,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/85006a39fac1f2999d1e2293a1d636ab5dfe63821446b8c8a70d49116293e78d"
+    },
+    "50a5678f8e4840c5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a74d34aa-e9ac-4230-a499-9dfb4b995f10",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 16,
+      "accepted_lines": 16,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/534ed9f9b42a3d9fd64c3b242f4e7d8cde297d36221ff15c84d74121ce429b6f"
+    },
+    "dddbbcf597b74014": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3fb7ff6f-3555-4fe6-9c2b-fa3f84893de2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 65,
+      "total_deletions": 1,
+      "accepted_lines": 65,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/f5b1f1d45715701c27246acc968cb8686818b6fcbe0b035e6320979816d0dc78"
+    },
+    "f445091529870d43": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bc0336d-f94a-4bde-b7e2-6a4b5dbda8ec",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 156,
+      "total_deletions": 1,
+      "accepted_lines": 156,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/d36da7235723ec9c7991fb704c6c3c153f79a24c2ce197792aca4f77bc8869cd"
+    }
+  }
+}
