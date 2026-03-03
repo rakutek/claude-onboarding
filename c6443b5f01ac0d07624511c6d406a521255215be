@@ -1,0 +1,30 @@
+steps/01-pricing-plans.md
+  6715ec3379354e21 1,5,7-19,51-55,57-58
+steps/02-mcp-connectors.md
+  6715ec3379354e21 40
+CLAUDE.md
+  6715ec3379354e21 24
+steps/03-artifacts.md
+  6715ec3379354e21 45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "c6443b5f01ac0d07624511c6d406a521255215be",
+  "prompts": {
+    "6715ec3379354e21": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c83c6477-5926-499e-a9ef-d9170342ef0c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 29,
+      "total_deletions": 5,
+      "accepted_lines": 29,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/8e855555355b7ab12440de0ac33420abece6720ab16ec06c1edf44170e75f9e0"
+    }
+  }
+}
