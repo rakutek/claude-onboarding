@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --version)",
+      "Bash(claude mcp list)",
+      "Bash(claude mcp list --json)",
+      "Bash(claude config list)",
+      "Bash(which claude)",
+      "Read(progress.json)",
+      "Read(steps/*)"
+    ]
+  }
+}
