@@ -28,7 +28,7 @@ Claude Code → Chrome DevTools MCP → Chrome ブラウザ
 
 ## `claude x` とは
 
-`claude x` は Claude Code 内蔵のパッケージランナーです。
+`claude x` は Claude Code 内蔵のパッケージランナーです。`npx` や `bunx` と同様に npm パッケージを実行できます。
 
 ```bash
 # これらは同じことをする

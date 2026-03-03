@@ -9,7 +9,7 @@
 
 > **Claude Code オンボーディングへようこそ。**
 >
-> このチュートリアルでは、Claude Code の基本概念と環境構築を 10 のステップで学びます。
+> このチュートリアルでは、Claude Code の基本概念と環境構築を 11 のステップで学びます。
 > `/next` と入力すると、次のステップに進みます。途中で中断しても、進捗は自動保存されます。
 >
 > 準備ができたら `/next` で始めましょう。
@@ -31,6 +31,7 @@
 | 08 | `steps/08-artifacts.md` | Artifacts の概念理解 | 体験 |
 | 09 | `steps/09-subagent.md` | Subagent（Task tool）の理解 | 応用 |
 | 10 | `steps/10-agent-team.md` | Agent Team の理解 | 応用 |
+| 11 | `steps/11-claude-in-chrome.md` | Claude in Chrome の導入と活用 | 体験 |
 
 ## 利用可能なスキル
 

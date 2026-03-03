@@ -33,7 +33,7 @@ Subagent は、Claude Code がタスクの一部を別の Claude インスタン
 
 ## Subagent の動作
 
-Claude Code では、Agent ツール（内部的には Task tool）として実装されています。
+Claude Code では、Agent ツール（旧称 Task tool、v2.1.63 で改名）として実装されています。
 
 ```
 ユーザー: 「このプロジェクトのセキュリティとパフォーマンスをレビューして」
