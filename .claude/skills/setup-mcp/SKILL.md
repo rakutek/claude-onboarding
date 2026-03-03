@@ -16,10 +16,10 @@ Chrome ブラウザの DevTools に接続し、ページの操作・スクリー
 **セットアップコマンド：**
 
 ```bash
-claude mcp add chrome-devtools --scope user -- env BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest
+claude mcp add chrome-devtools --scope user -- npx -y chrome-devtools-mcp@latest
 ```
 
-> `claude x` は Claude Code 内蔵のパッケージランナーです。`bunx` や `npx` の代わりに使えるため、追加のインストールは不要です。
+> `npx` は Node.js に付属のパッケージランナーです。`-y` オプションで確認なしにパッケージを実行できます。
 
 **使用前の準備：**
 1. Chrome を起動する

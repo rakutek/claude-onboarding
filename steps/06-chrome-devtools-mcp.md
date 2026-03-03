@@ -2,7 +2,7 @@
 
 ## 目標
 
-Claude Code に Chrome DevTools MCP を追加し、ブラウザ操作が可能な状態にする。`claude x` の仕組みも理解する。
+Claude Code に Chrome DevTools MCP を追加し、ブラウザ操作が可能な状態にする。
 
 ## Chrome DevTools MCP とは
 
@@ -26,30 +26,19 @@ Claude Code → Chrome DevTools MCP → Chrome ブラウザ
 | ネットワーク | API リクエストの監視 |
 | パフォーマンス | ページ読み込み速度の測定 |
 
-## `claude x` とは
-
-`claude x` は Claude Code 内蔵のパッケージランナーです。`npx` や `bunx` と同様に npm パッケージを実行できます。
-
-```bash
-# これらは同じことをする
-npx chrome-devtools-mcp@latest    # npx を使う場合（Node.js 必要）
-bunx chrome-devtools-mcp@latest   # bunx を使う場合（Bun 必要）
-BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest  # claude x（追加インストール不要）
-```
-
-`claude x` なら Node.js や Bun をインストールしなくても npm パッケージを実行できます。
-
 ## セットアップ手順
+
+> **前提条件:** Node.js がインストールされている必要があります。macOS では `brew install node` でインストールできます。
 
 ### 1. MCP サーバーを追加
 
 ```bash
-claude mcp add chrome-devtools --scope user -- env BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest
+claude mcp add chrome-devtools --scope user -- npx -y chrome-devtools-mcp@latest
 ```
 
 - `--scope user`: ユーザースコープ（すべてのプロジェクトで有効）
-- `env BUN_BE_BUN=1`: `claude x` の実行に必要な環境変数
-- `claude x chrome-devtools-mcp@latest`: 常に最新版を使用
+- `npx -y`: 確認なしで npm パッケージを実行（Node.js 付属）
+- `chrome-devtools-mcp@latest`: 常に最新版を使用
 
 ### 2. 追加を確認
 
@@ -74,7 +63,7 @@ Chrome DevTools MCP を使うには、Chrome がデバッグモードで起動�
 
 1. 以下のコマンドで Chrome DevTools MCP を追加する：
    ```bash
-   claude mcp add chrome-devtools --scope user -- env BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest
+   claude mcp add chrome-devtools --scope user -- npx -y chrome-devtools-mcp@latest
    ```
 2. `claude mcp list` で追加されていることを確認する
 3. （任意）Chrome をデバッグモードで起動して、Claude Code からスクリーンショットを撮ってみる
@@ -82,5 +71,5 @@ Chrome DevTools MCP を使うには、Chrome がデバッグモードで起動�
 ## 確認チェック
 
 - [ ] `claude mcp list` に chrome-devtools が表示される
-- [ ] `claude x` が何をするコマンドか説明できる
+- [ ] `npx` が何をするコマンドか説明できる
 - [ ] Chrome DevTools MCP でできることを3つ挙げられる
