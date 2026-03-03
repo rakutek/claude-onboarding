@@ -12,9 +12,7 @@ Claude Desktop は、Anthropic が提供する公式デスクトップアプリ�
 
 1. [Claude Desktop ダウンロードページ](https://claude.ai/download) にアクセスする
 2. お使いの OS に合ったインストーラーをダウンロードする
-   - **macOS**: `.dmg` ファイルをダウンロードし、Applications フォルダにドラッグ
-   - **Windows**: `.exe` ファイルをダウンロードし、インストーラーを実行
-3. アプリを起動し、Claude アカウントでサインインする
+3. アプリを起動し、会社で契約したClaude アカウントでサインインする
 
 > **注意**: アカウントをまだ持っていない場合は、[claude.ai](https://claude.ai) でアカウントを作成してください。
 

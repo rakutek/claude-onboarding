@@ -15,10 +15,8 @@ Claude Code 自身がガイド役となり、対話形式でステップを進�
 
 ### 1. リポジトリをクローン
 
-```bash
-git clone <このリポジトリの URL>
-cd claude-onboarding
-```
+このディレクトリ
+
 
 ### 2. Claude Code を起動
 
