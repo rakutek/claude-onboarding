@@ -1,0 +1,24 @@
+steps/01-pricing-plans.md
+  2f3918dd8a667d4f 9-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "47bf21cfd07a6397950fba2467ddadc919a9a36a",
+  "prompts": {
+    "2f3918dd8a667d4f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7ec5bf98-14a9-4724-8204-a00c47dfeb1c",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 7,
+      "total_deletions": 10,
+      "accepted_lines": 5,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/8abc90b1ff668aca0c7939729d0bbab5dc6bd265e32683c995252bcae0fcdee6"
+    }
+  }
+}
