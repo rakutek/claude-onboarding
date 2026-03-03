@@ -9,7 +9,7 @@
 
 > **Claude Code オンボーディングへようこそ。**
 >
-> このチュートリアルでは、Claude Code の基本概念と環境構築を 12 のステップで学びます。
+> このチュートリアルでは、Claude Code の基本概念と環境構築を 10 のステップで学びます。
 > `/next` と入力すると、次のステップに進みます。途中で中断しても、進捗は自動保存されます。
 >
 > 準備ができたら `/next` で始めましょう。
@@ -31,8 +31,6 @@
 | 08 | `steps/08-artifacts.md` | Artifacts の概念理解 | 体験 |
 | 09 | `steps/09-subagent.md` | Subagent（Task tool）の理解 | 応用 |
 | 10 | `steps/10-agent-team.md` | Agent Team の理解 | 応用 |
-| 11 | `steps/11-fast-mode.md` | SoTA モデルの高速化 | 応用 |
-| 12 | `steps/12-openclaw.md` | OpenClaw 紹介 | 応用 |
 
 ## 利用可能なスキル
 
@@ -55,4 +53,5 @@
 
 - このチュートリアルは概念理解と環境構築にフォーカスしています。実践的なコード生成は対象外です
 - Bun のインストールは不要です。`claude x` コマンドで代替できます
+- `claude x` の実行には環境変数 `BUN_BE_BUN=1` が必要です（例: `BUN_BE_BUN=1 claude x script.ts`）
 - 各ステップは独立して参照可能ですが、順番に進めることを推奨します

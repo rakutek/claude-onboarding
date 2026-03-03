@@ -34,7 +34,7 @@ Claude Code → Chrome DevTools MCP → Chrome ブラウザ
 # これらは同じことをする
 npx chrome-devtools-mcp@latest    # npx を使う場合（Node.js 必要）
 bunx chrome-devtools-mcp@latest   # bunx を使う場合（Bun 必要）
-claude x chrome-devtools-mcp@latest  # claude x（追加インストール不要）
+BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest  # claude x（追加インストール不要）
 ```
 
 `claude x` なら Node.js や Bun をインストールしなくても npm パッケージを実行できます。
@@ -44,10 +44,11 @@ claude x chrome-devtools-mcp@latest  # claude x（追加インストール不要
 ### 1. MCP サーバーを追加
 
 ```bash
-claude mcp add chrome-devtools --scope user -- claude x chrome-devtools-mcp@latest
+claude mcp add chrome-devtools --scope user -- env BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest
 ```
 
 - `--scope user`: ユーザースコープ（すべてのプロジェクトで有効）
+- `env BUN_BE_BUN=1`: `claude x` の実行に必要な環境変数
 - `claude x chrome-devtools-mcp@latest`: 常に最新版を使用
 
 ### 2. 追加を確認
@@ -73,7 +74,7 @@ Chrome DevTools MCP を使うには、Chrome がデバッグモードで起動�
 
 1. 以下のコマンドで Chrome DevTools MCP を追加する：
    ```bash
-   claude mcp add chrome-devtools --scope user -- claude x chrome-devtools-mcp@latest
+   claude mcp add chrome-devtools --scope user -- env BUN_BE_BUN=1 claude x chrome-devtools-mcp@latest
    ```
 2. `claude mcp list` で追加されていることを確認する
 3. （任意）Chrome をデバッグモードで起動して、Claude Code からスクリーンショットを撮ってみる
