@@ -1,0 +1,36 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "0892e31eb4e3472cdf198896c26332c6090935ed",
+  "prompts": {
+    "239e58e52a947992": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71b35027-da76-497a-8b67-df7e5cec2654",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/4c6b7f634eebaf6629f0e4948c031bf802d4bafb083afbdb992c3aea76b9a4cc"
+    },
+    "5df7e6e278fae5be": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2be303fa-2588-453f-9e97-31f3fccb0c71",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Raku Sakaguchi <rakutek12@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 7,
+      "accepted_lines": 0,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/ed0799fb2fbc4c17c200ffac0abd917e9c2fe8ea382ddac5f5e3bf8e956296b2"
+    }
+  }
+}
