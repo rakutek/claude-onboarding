@@ -1,4 +1,4 @@
-# Step 05: CLAUDE.md の理解
+# Step 08: CLAUDE.md の理解
 
 ## 目標
 

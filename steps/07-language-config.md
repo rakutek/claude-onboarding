@@ -1,4 +1,4 @@
-# Step 04: 言語設定（/config）
+# Step 07: 言語設定（/config）
 
 ## 目標
 

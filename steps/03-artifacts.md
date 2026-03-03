@@ -1,4 +1,4 @@
-# Step 08: Artifacts の概念理解
+# Step 03: Artifacts の概念理解
 
 ## 目標
 

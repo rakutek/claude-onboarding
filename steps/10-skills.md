@@ -1,4 +1,4 @@
-# Step 07: Skills の概念理解
+# Step 10: Skills の概念理解
 
 ## 目標
 

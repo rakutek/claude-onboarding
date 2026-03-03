@@ -1,4 +1,4 @@
-# Step 11: Claude in Chrome の導入と活用
+# Step 05: Claude in Chrome の導入と活用
 
 ## 目標
 

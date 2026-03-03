@@ -1,4 +1,4 @@
-# Step 06: Chrome DevTools MCP の追加
+# Step 09: Chrome DevTools MCP の追加
 
 ## 目標
 

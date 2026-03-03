@@ -1,4 +1,4 @@
-# Step 11: Claude Cowork の理解と活用
+# Step 04: Claude Cowork の理解と活用
 
 ## 目標
 

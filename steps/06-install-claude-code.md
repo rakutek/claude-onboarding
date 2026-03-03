@@ -1,4 +1,4 @@
-# Step 03: Claude Code のインストール
+# Step 06: Claude Code のインストール
 
 ## 目標
 

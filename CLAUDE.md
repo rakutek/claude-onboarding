@@ -21,17 +21,17 @@
 
 | # | ファイル | 内容 | フェーズ |
 |---|---------|------|---------|
-| 01 | `steps/01-pricing-plans.md` | 料金プラン・制限の理解 | 座学 |
-| 02 | `steps/02-mcp-connectors.md` | MCP（コネクタ）の設定 | 座学 |
-| 03 | `steps/03-install-claude-code.md` | Claude Code のインストール | 環境構築 |
-| 04 | `steps/04-language-config.md` | 言語設定（/config） | 環境構築 |
-| 05 | `steps/05-claude-md.md` | CLAUDE.md の理解 | 体験 |
-| 06 | `steps/06-chrome-devtools-mcp.md` | Chrome DevTools MCP の追加 | 体験 |
-| 07 | `steps/07-skills.md` | Skills の概念理解 | 体験 |
-| 08 | `steps/08-artifacts.md` | Artifacts の概念理解 | 体験 |
-| 09 | `steps/09-claude-in-chrome.md` | Claude in Chrome の導入と活用 | 体験 |
-| 10 | `steps/10-agent-team.md` | Agent Team の理解 | 応用 |
-| 11 | `steps/11-claude-cowork.md` | Claude Cowork の理解と活用 | 応用 |
+| 01 | `steps/01-pricing-plans.md` | 料金プラン・制限の理解 | Claude Desktop |
+| 02 | `steps/02-mcp-connectors.md` | MCP（コネクタ）の設定 | Claude Desktop |
+| 03 | `steps/03-artifacts.md` | Artifacts の概念理解 | Claude Desktop |
+| 04 | `steps/04-claude-cowork.md` | Claude Cowork の理解と活用 | Claude Cowork |
+| 05 | `steps/05-claude-in-chrome.md` | Claude in Chrome の導入と活用 | Claude in Chrome |
+| 06 | `steps/06-install-claude-code.md` | Claude Code のインストール | Claude Code |
+| 07 | `steps/07-language-config.md` | 言語設定（/config） | Claude Code |
+| 08 | `steps/08-claude-md.md` | CLAUDE.md の理解 | Claude Code |
+| 09 | `steps/09-chrome-devtools-mcp.md` | Chrome DevTools MCP の追加 | Claude Code |
+| 10 | `steps/10-skills.md` | Skills の概念理解 | Claude Code |
+| 11 | `steps/11-agent-team.md` | Agent Team の理解 | Claude Code |
 
 ## 利用可能なスキル
 

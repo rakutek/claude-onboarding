@@ -1,4 +1,4 @@
-# Step 10: Agent Team の理解
+# Step 11: Agent Team の理解
 
 ## 目標
 
