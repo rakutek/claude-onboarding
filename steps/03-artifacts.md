@@ -8,16 +8,6 @@ Claude の Artifacts 機能の概念と、Claude Code との関係を理解す�
 
 Artifacts は、Claude が生成したコンテンツを独立したパネルに表示する機能です。Claude アプリ（Web / デスクトップ）で利用できます。
 
-### Artifacts の種類
-
-| 種類 | 説明 | 例 |
-|------|------|----|
-| コード | 実行可能なコード | React コンポーネント、Python スクリプト |
-| ドキュメント | Markdown テキスト | レポート、仕様書 |
-| Web ページ | HTML/CSS/JS | インタラクティブな UI プレビュー |
-| SVG | ベクター画像 | 図表、アイコン |
-| Mermaid | ダイアグラム | フローチャート、ER図 |
-
 ### Artifacts の特徴
 
 - 会話の右側パネルに表示される

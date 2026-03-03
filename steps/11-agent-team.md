@@ -83,3 +83,7 @@ git worktree add ../feature-b feature-b
    Agent Team を使ってコードレビューを行う場合、どんな役割分担が考えられる？
    ```
 3. 自分の業務で Agent Team が活用できそうなシーンを1つ考えてみましょう
+
+
+
+未来の話、まだトークンが激しすぎてほぼ使えない

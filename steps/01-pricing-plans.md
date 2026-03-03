@@ -55,3 +55,10 @@ Max 5x と Max 20x は、Pro の 5倍・20倍の利用量が使えます。Claud
 - [ ] Claude Desktop がインストールされている
 - [ ] Claude Desktop にサインインできた
 
+
+
+
+limitの話を入れる
+
+
+毎回clearを入れさせる

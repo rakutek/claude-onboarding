@@ -74,3 +74,6 @@ Claude が実行する手順を Markdown で記述します。Bash コマンド�
 ## 確認チェック
 
 - [ ] `/check-setup` を実行して結果が表示された
+
+
+cladue.mdとの違いを明確に書く
