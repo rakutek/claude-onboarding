@@ -6,14 +6,11 @@ Claude の料金プランごとの違いと、Claude Code の利用条件を理�
 
 ## プラン比較
 
-| 項目 | Free | Pro ($20/月) | Max 5x ($100/月) | Max 20x ($200/月) | Team | Enterprise |
-|------|------|-------------|-------------------|--------------------|--------------------|------------|
-| Claude Code | ❌ | ✅ | ✅ | ✅ | Premium席のみ ✅ | ✅ |
-| MCP コネクタ | ✅（1つまで） | ✅ | ✅ | ✅ | ✅ | ✅ |
-| モデル | Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet |
-| 利用量 | 制限あり | 標準 | 5倍 | 20倍 | チーム管理 | カスタム |
-
-> **Team プランの注意点**: Team プランには Standard席（$25〜30/人/月）と Premium席（$150/人/月）があります。Claude Code を利用するには Premium席が必要です。
+| 項目 | Free | Pro ($20/月) | Max 5x ($100/月) | Max 20x ($200/月) | Team Standard ($25〜30/人/月) | Team Premium ($150/人/月) | Enterprise |
+|------|------|-------------|-------------------|--------------------|-----------------------------|--------------------------|------------|
+| Claude Code | ❌ | ✅ | ✅ | ✅ | ✅ | ✅（5倍） | ✅ |
+| モデル | Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet | Opus/Sonnet |
+| 利用量 | 制限あり | 標準 | 5倍 | 20倍 | 標準 | 5倍 | カスタム |
 
 ## 重要なポイント
 
@@ -48,8 +45,4 @@ Claude Code でのデフォルトモデルはプランによって異なりま�
    - [claude.ai](https://claude.ai) にログイン → 左下のアイコン → 「Settings」→「Billing」
 2. チームメンバーと自分のプランが異なる場合、何が違うか把握しましょう
 
-## 確認チェック
 
-- [ ] 自分の現在のプランを把握した
-- [ ] Claude Code を使うには Pro 以上が必要なことを理解した
-- [ ] Opus と Sonnet の違いを説明できる

@@ -9,10 +9,7 @@ Claude Code 自身がガイド役となり、対話形式でステップを進�
 
 ## 前提条件
 
-- macOS / Linux 環境（Windows は WSL2 を推奨）
-- Node.js v18 以上
-- ターミナルの基本操作ができること
-- Anthropic のアカウント（Pro プラン以上を推奨）
+- Cluadeのアカウントが不要されていること
 
 ## 始め方
 
