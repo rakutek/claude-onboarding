@@ -48,8 +48,8 @@ Claude Code が起動すると、ウェルカムメッセージが表示され�
 | 06 | Chrome DevTools MCP の追加 | 体験 |
 | 07 | Skills の概念理解 | 体験 |
 | 08 | Artifacts の概念理解 | 体験 |
-| 09 | Subagent（Task tool）の理解 | 応用 |
-| 10 | Agent Team の理解 | 応用 |
+| 09 | Agent Team の理解 | 応用 |
+| 10 | Claude in Chrome の導入と活用 | 体験 |
 
 ## 使えるコマンド
 
