@@ -27,7 +27,6 @@
 | 04 | `steps/04-claude-cowork.md` | Claude Cowork の理解と活用 | Claude Cowork |
 | 05 | `steps/05-claude-in-chrome.md` | Claude in Chrome の導入と活用 | Claude in Chrome |
 | 06 | `steps/06-install-claude-code.md` | Claude Code のインストール | Claude Code |
-| 07 | `steps/07-language-config.md` | 言語設定（/config） | Claude Code |
 | 08 | `steps/08-claude-md.md` | CLAUDE.md の理解 | Claude Code |
 | 09 | `steps/09-chrome-devtools-mcp.md` | Chrome DevTools MCP の追加 | Claude Code |
 | 10 | `steps/10-skills.md` | Skills の概念理解 | Claude Code |
